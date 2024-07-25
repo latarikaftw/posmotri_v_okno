@@ -1,0 +1,36 @@
+# Иконки ресурсов
+.DS_Store
+.AppleDouble
+.LSOverride
+node_modules
+
+# Сохраняемые файлы при использовании Finder
+.Spotlight-V100
+.Trashes
+
+# Для любого тома на платформе Mac
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Файлы резервных копий
+*.swp
+*.swo
+*.backup
+
+# Для использования macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.Trash
+.VolumeIcon.icns
+.DocumentRevisions-V100
+.fseventsd
+.metadata_never_index
+.noindex
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
