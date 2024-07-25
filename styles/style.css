@@ -259,7 +259,7 @@ input[type="text"]:focus,
   background-color: #545050;
 }
 
-.search-form__label-text:hover {
+.search-form__label:hover {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
