@@ -12,7 +12,7 @@ html {
   display: grid;
   place-items: center;
   margin: auto;
-  margin-block-start: 60px;
+  margin-block-start: 0px;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
