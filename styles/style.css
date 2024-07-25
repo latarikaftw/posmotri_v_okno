@@ -267,8 +267,8 @@ input[type="text"]:focus,
 
 .content__card-link {
   display: block;
-  margin-right: 2px;
-  margin-left: 2px;
+  margin-inline-start: 2px;
+  margin-inline-end: 2px;
   color: #fff;
 }
 
