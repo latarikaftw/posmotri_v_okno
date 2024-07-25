@@ -103,13 +103,13 @@ ol {
 
 .search-form__fieldset-title {
   padding-bottom: 2px;
-  font-family: "Fira Sans Condensed";
+  font-family: "Fira Sans Condensed", sans-serif;
   font-weight: normal;
   font-size: 18px;
 }
 
 .title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 75px;
   line-height: 94%;
@@ -133,14 +133,14 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 30px;
   text-transform: uppercase;
 }
 
 .content__video-card-description {
-  font-family: "Fira Sans Condensed";
+  font-family: "Fira Sans Condensed", sans-serif;
   font-weight: normal;
   font-size: 18px;
   line-height: 16.2px;
@@ -201,7 +201,7 @@ input[type="checkbox"]:checked + span {
   align-self: flex-end;
   border: 1px solid white;
   color: white;
-  font-family: "Fira Sans Condensed";
+  font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 700;
   font-size: 18px;
   background-color: rgba(0, 0, 0, 0);
